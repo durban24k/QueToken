@@ -6,6 +6,7 @@ contract QueToken{
      // Set the total number of tokens
      // Read the total number of tokens
      uint256 public totalSupply;
+     
      function QueCoin() public{
           totalSupply=1000000;
      }
