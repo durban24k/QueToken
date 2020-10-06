@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: QUE_TOKEN
-pragma solidity >=0.4.17 <0.8.0;
+pragma solidity >=0.4.17;
 
 contract QueToken{
      // Constructor
